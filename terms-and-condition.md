@@ -36,10 +36,6 @@ For purposes of service messages, notices, offers and news about FWork, Users re
 
 By accepting these terms, Freelancers automatically opt-in to receive emails from TalentDesk.io, an enterprise service powered by FWork. TalentDesk.io is a cloud-based project management platform used by enterprise clients to efficiently manage large projects that require the services of multiple freelancers, contractors and employees.
 
-FWork provides TalentDesk.io with access to the FWork freelancer database as part of the TalentDesk.io ‘Discover Talent’ feature. Freelancers can be directly contacted by clients of TalentDesk.io and be invited to participate in projects via the TalentDesk.io platform.
-
-FWork takes privacy and data security extremely seriously and users may opt out from receiving project invites and email notifications from TalentDesk.io by logging in to the FWork account and unsubscribing from the Settings > Notifications page.
-
 ## 2. FWork user accounts
 To access the full FWork site, Users have to register for an account, provide accurate and complete information, and keep their account information updated. Both Buyers and Freelancers undergo the same account registration process.
 
@@ -232,20 +228,20 @@ The Freelancer will be asked to confirm either i) that the project is still in p
 If no action is taken by the Freelancer within seven (7) days it will be assumed that the project was not delivered by the Freelancer and the funds held in the Escrow Account will be automatically refunded back to the Buyer's FWork User Account. In this event the Freelancer's rankings will be affected in accordance with the terms in Section 6.
 FWork uses third-party service providers including Adyen, Worldpay, Payoneer and Paypal to process payments by Buyers and to transfer funds to Freelancers. These third-party payment service providers are regulated and authorised to provide payment services in the countries where they operate. FWork may share your personal or transactional information with third-party payment service providers when it is necessary to process payments.
 
-5. Leaving Feedback
+## 5. Leaving Feedback
 When the project is completed and the Freelancer has been paid by the Buyer, both parties are asked to provide both qualitative feedback and a rating from 1-5 for the other party. This rating influences each User's ranking on FWork. In order for a user to read a received review, they have to submit their feedback as well. A review (feedback) is published on the member profile page when both parties (Buyer and Freelancer) leave their feedback within the first 60 days since invoice payment (funds released / amount paid). In case 60 days have passed, any submitted review is disclosed and users that haven't left any review will no longer be able to do so.
 
 Both parties should complete the feedback honestly. Users must not falsify feedback, manipulate or coerce another User by threatening negative feedback or offer incentives in exchange for feedback. Any attempts of this nature should be reported immediately to FWork.
 
 Feedback comments that are reported to us as defamatory, abusive or offensive will be reviewed and may be removed at our discretion.
 
-6. Cancellations and refunds
-6.1 Cancellation of a project
+## 6. Cancellations and refunds
+### 6.1 Cancellation of a project
 After the Commencement of a project, the Buyer may request a cancellation:
 
 If there are funds in the Escrow Account and the Buyer believes they are entitled to a refund, the Buyer can notify FWork of the cancellation by requesting a refund using the “Request Refund” action on the WorkStream.
 
-6.2 Project Refund policy
+### 6.2 Project Refund policy
 A Buyer is entitled to receive a refund of funds held in the Escrow Account under the following circumstances:
 
 no response: the Freelancer has not responded in the WorkStream within one (1) working day of the Commencement of the project;
@@ -260,18 +256,19 @@ Refunds are only applicable to funds held in the Escrow Account. As per Section 
 
 Buyers must avoid filing a dispute or reversing payment through their credit card holder, Bank or PayPal. Attempts to seek a refund in this way will lead to the Buyer's account being automatically suspended.
 
-6.2.1 Requesting a refund
+#### 6.2.1 Requesting a refund
 A Buyer can request a refund of the funds held in the Escrow Account using the “Request Refund” action in the WorkStream and specifying a reason for their request.
 
 FWork will process refund requests subject to a review of the refund reason and circumstances to ensure that both parties have complied with these terms and conditions, and that the purpose of the refund is not to avoid any of the parties' obligations under these terms and conditions. If FWork reasonably believes that the parties have not complied with these terms and conditions or are seeking to avoid any such obligations FWork shall not be obliged to make the refund.
 
-6.2.2 Refund and cancellation penalties
+#### 6.2.2 Refund and cancellation penalties
 Users are strictly discouraged from causing cancellations and refunds. Refunds will impact Users standing in the FWork marketplace as follows:
 
 where the Freelancer is at fault for the refund (for example, due to no response, poor quality of work or they have cancelled the project), it will negatively impact their Freelancer status and rankings;
 where the Buyer is found to be the cause for the refund (for example, an early cancellation due to a change in their business need) it will negatively impact their Buyer status;
 multiple refunds attributed to a User will lead to temporary and/ or permanent restrictions on their account depending upon the severity.
-7. Disputes
+
+## 7. Disputes
 FWork encourage our Freelancers and Buyers to try and resolve any disagreements between themselves. However should that not be possible FWork Customer Services can provide Dispute resolution.
 
 A Dispute can be raised:
@@ -493,7 +490,7 @@ FWork may use your personal data to gather feedback regarding your experience yo
 FWork is not a party to any Service Contract between Buyer and Freelancer. Any Service Contract between a Buyer and Freelancer shall be in accordance with such Freelancer's privacy policy and the terms of the EU General Data Protection Regulation 2016/679.
 
 ## 13. Governing Law
-These terms and conditions and any dispute or claim arising out of or in connection with them or their subject matter or formation (including non-contractual disputes or claims) shall be governed by and construed in accordance with the law of England and Wales. The courts of England and Wales shall have non-exclusive jurisdiction to settle any dispute or claim that arises out of or in connection with these terms and conditions or their subject matter or formation (including non-contractual disputes or claims).
+These terms and conditions and any dispute or claim arising out of or in connection with them or their subject matter or formation (including non-contractual disputes or claims) shall be governed by and construed in accordance with the law of Hong Kong SAR. The courts of Hong Kong SAR shall have non-exclusive jurisdiction to settle any dispute or claim that arises out of or in connection with these terms and conditions or their subject matter or formation (including non-contractual disputes or claims).
 
 ## 14. Related Policies
 The following policies are part of these terms and conditions and should be read carefully:
@@ -522,7 +519,7 @@ In these terms and conditions:
 10. 'Offer' means a pre-packaged service, that is offered on FWork by a Freelancer for a fixed price and delivered within fixed timescales.
 11. 'Invoice' means a bill for a completed project which is raised by the Freelancer in the WorkStream or in the FWork payments dashboard;
 12. 'Project' means a piece of work that a Freelancer and Buyer agree via FWork is to be provided by the Freelancer to the Buyer. Project refers to work either agreed when the Buyer purchases an Offer, or when a Proposal by a Freelancer is accepted by the Buyer for a custom project;.
-13. ‘FWork' means the website with the domain name www.FWork.com or People Per Hour Limited as the context so requires;
+13. ‘FWork' means the website with the domain name www.fwork.com Deam Test Software Limited as the context so requires;
 14. ‘FWork User Account' means a User’s FWork persona, profile, settings, activities, invoices, transactions and funds balance available for you to withdraw;
 15. 'Proposal' means an offer made by a Freelancer to a Buyer to provide a custom project and which must contain a fee quotation;
 16. ‘Freelancer' means a person selling services to a Buyer via FWork;
