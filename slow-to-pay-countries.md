@@ -1,0 +1,107 @@
+# International Bank Transfer designated "slow-to-pay" Countries
+
+For international Bank transfers, credit to the beneficiary may be delayed by factors such as local bank holidays, delays by an intermediary bank or other local conditions. Please note that some countries have been designated as “slow-to-pay” countries and transfers made to those countries may take several days or even weeks in crediting the receiving account. The following is a complete listing of slow-to-pay countries.
+
+- Albania
+- Algeria
+- Angola
+- Argentina
+- Armenia
+- Azerbaijan
+- Bangladesh
+- Barbados
+- Benin
+- Bhutan
+- Bolivia
+- Botswana
+- Brazil
+- Brunei
+- Burkina Faso
+- Burundi
+- Cambodia
+- Cameroon
+- Cape Verde Islands
+- Central African
+- Chad
+- Chile
+- China
+- Colombia
+- Comoros
+- Congo, Dem. Republic of
+- Congo, Republic of
+- Republic of
+- Côte d'Ivoire/Ivory Coast
+- Croatia
+- Djibouti
+- Dominican Republic
+- Eastern Caribbean
+- Egypt
+- Estonia
+- Ethiopia
+- Gabon
+- Gambia
+- Ghana
+- Guatemala
+- Guyana
+- Haiti
+- India
+- Indonesia
+- Israel
+- Jordan
+- Kenya
+- Kyrgyzstan
+- Kuwait
+- Laos
+- Latvia
+- Lebanon
+- Lesotho
+- Macau
+- Macedonia
+- Madagascar
+- Malawi
+- Malaysia
+- Mali
+- Mauritania
+- Mauritius
+- Moldova
+- Mongolia
+- Morocco
+- Mozambique
+- Namibia
+- Nepal
+- Nicaragua
+- Niger
+- Nigeria
+- Oman
+- Pakistan
+- Papua New Guinea
+- Poland
+- Qatar
+- Romania
+- Russia
+- Rwanda
+- Saudi Arabia
+- Senegal
+- Serbia
+- Seychelles
+- Sierra Leone
+- Slovakia
+- Somalia
+- Sri Lanka
+- Suriname
+- Swaziland
+- Tanzania
+- Togo
+- Tonga
+- Trinidad & Tobago
+- Turkmenistan
+- Uganda
+- Ukraine
+- Uzbekistan
+- Venezuela
+- Vietnam
+- West African
+- West Samoa
+- Yemen
+- Zambia
+- Zimbabwe
